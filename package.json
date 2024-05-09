@@ -1,5 +1,5 @@
 {
-  "name": "as4_wordscount",
+  "name": "as4-wordscount",
   "version": "1.0.0",
   "description": "able to count words in any paraghrap",
   "main": "index.js",
